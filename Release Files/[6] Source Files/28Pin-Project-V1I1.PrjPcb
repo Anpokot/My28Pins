@@ -205,7 +205,7 @@ ParamVariationCount=0
 
 [ProjectVariant2]
 UniqueID=A30BBFC9-D044-496A-8897-FAE41D8A6365
-Description=5V/3V3
+Description=5V AND 3V3
 AllowFabrication=0
 ParameterCount=0
 VariationCount=6
@@ -460,6 +460,166 @@ ParamDesignator121=Y2
 ParamVariation122=ParameterName=Width|VariantValue=<no parameter>
 ParamDesignator122=Y2
 ParamVariationCount=122
+
+[GeneratedDocument1]
+DocumentPath=..\Release Files\[4] 3D\3D Model My28Pins 5V AND 3V3.step
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=..\Release Files\[4] 3D\3D Model My28Pins FIXED 5V.step
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=..\Release Files\[6] Source Files\28Pin-Project-V1I1-PCB.PcbDoc
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=..\Release Files\[6] Source Files\28Pin-Project-V1I1.PcbLib
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=..\Release Files\[6] Source Files\28Pin-Project-V1I1.PrjPcb
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=..\Release Files\[6] Source Files\28Pin-Project-V1I1.PrjPcbStructure
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=..\Release Files\[6] Source Files\28Pin-Project-V1I1.PrjPcbVariants
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=..\Release Files\[6] Source Files\28Pin-Project-V1I1.SchLib
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=..\Release Files\[6] Source Files\28Pins_Project_V1I1 Project.SchDoc
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=..\Release Files\[6] Source Files\28Pins JobFile.OutJob
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=..\Release Files\[6] Source Files\[01] - COVER PAGE.SchDoc
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=..\Release Files\[6] Source Files\[02] - BLOCK DIAGRAM.SchDoc
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=..\Release Files\[6] Source Files\[03] - 28PINS SCHEMATIC.SchDoc
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=..\Release Files\[6] Source Files\[04] - REVISION HISTORY.SchDoc
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=..\Release Files\[2] Board Assembly\My28Pins 5V AND 3V3\BOM Component Reference My28Pins 5V AND 3V3.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=..\Release Files\[2] Board Assembly\My28Pins FIXED 5V\BOM Component Reference My28Pins FIXED 5V.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=..\Release Files\[2] Board Assembly\My28Pins 5V AND 3V3\BOM Purchasing My28Pins 5V AND 3V3.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=..\Release Files\[2] Board Assembly\My28Pins FIXED 5V\BOM Purchasing My28Pins FIXED 5V.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=..\Release Files\[2] Board Assembly\My28Pins 5V AND 3V3\BOM Reference Group My28Pins 5V AND 3V3.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=..\Release Files\[2] Board Assembly\My28Pins FIXED 5V\BOM Reference Group My28Pins FIXED 5V.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\NC Drill\My28Pins-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\NC Drill\My28Pins-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\NC Drill\My28Pins.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\Gerber\My28Pins.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GM28
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\Gerber\My28Pins.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\NC Drill\My28Pins.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\Gerber\My28Pins.REP
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=..\Release Files\[1] PCB Manufacturing\Gerber\My28Pins.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=..\Release Files\[2] Board Assembly\My28Pins 5V AND 3V3\Pick Place My28Pins 5V AND 3V3.txt
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=..\Release Files\[2] Board Assembly\My28Pins FIXED 5V\Pick Place My28Pins FIXED 5V.txt
+DItemRevisionGUID=
 
 [Parameter1]
 Name=Company
@@ -716,7 +876,9 @@ OutputName10=Schematic Prints
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.07|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=600|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A3
+Configuration10_Name1=OutputConfigurationParameter1
+Configuration10_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType11=SimView Print
 OutputName11=SimView Prints
 OutputDocumentPath11=
