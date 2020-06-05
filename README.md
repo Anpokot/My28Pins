@@ -6,5 +6,5 @@ Design files from "Learn to Design Your Own Boards" course
 
 <img src="/My28Pins3DBot.PNG" >
 
-<img src="/Schematic.PNG" >
+<img src="/3.gif" >
 
