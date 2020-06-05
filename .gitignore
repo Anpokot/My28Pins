@@ -1,7 +1,12 @@
 __Previews/
 History/
 * Logs*
-Project Outputs *
+Project Outputs*/
+Project Logs*/
+Assembly Exports/
+*.rawProject Outputs*/
+*.PcbDoc.htm
+.allspice/
 *.DSNlck
 read_me.txt
 Release Document for Altium Designer.txt
