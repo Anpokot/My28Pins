@@ -9,4 +9,5 @@ Each Variant have its own folder
 Resulting folder structure should be like this:
 <img src="/Release Files/FolderStructure.png" >
 
-### NOTE: Your variant name must not contain windows prohibited symbols: `< > : " / \ | ? *`
+### NOTE: Your variant name must not contain windows prohibited symbols:
+`<` `>` `:` `"` `/` `\` `|` `?` `*`
